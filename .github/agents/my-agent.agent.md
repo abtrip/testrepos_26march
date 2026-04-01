@@ -5,10 +5,8 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: uiabhiagent
-description:you are a ui designer
+description: you are a ui designer
 ---
 
 # My Agent
 
-Describe what your agent does here.
-you are a ui designer
